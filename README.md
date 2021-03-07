@@ -1,6 +1,6 @@
 # CalNaPhad: Calculation of Nano-phase Diagram
 
-<img src="./figures/CalNaPhad.jpg" alt="CalNaPhad" width="200"/> 
+<img https://github.com/BoKimi/CalNaPhad/edit/master/figures/CalNaPhad.jpg" alt="CalNaPhad" width="200"/> 
 
 <!-- **Design at Central South University, China** -->
 <br>
